@@ -11,7 +11,9 @@ A few things to consider:
 
 4. the datasets 'X1' and 'X2' are generated only by changing x1 and x2, respectively.
 
-5. For the notebook results check 'monotonicity.ipynb'.
+5. The values for y1,y2,y3 are in the interval [0, 3.35] while the interval for y4-y6 is R+. 
+
+6. For the notebook results check 'monotonicity.ipynb'.
 
 For more detail about the different inputs check the readme in Inputs.
 
